@@ -8,26 +8,9 @@ All
 
 ## Attributes
 
-<table>
-  <tr>
-    <th>Key</th>
-    <th>Type</th>
-    <th>Description</th>
-    <th>Default</th>
-  </tr>
-  <tr>
-    <td><tt>['truesight_events']['email']</tt></td>
-    <td>String</td>
-    <td>Authentication email address</td>
-    <td><tt>empty</tt></td>
-  </tr>
-  <tr>
-    <td><tt>['truesight_events']['api_token']</tt></td>
-    <td>String</td>
-    <td>API Token</td>
-    <td><tt>empty</tt></td>
-  </tr>
-</table>
+| Key | Type | Description | Default |
+| `['truesight_events']['email']` | String | Authentication Email Address | empty |
+| `['truesight_events']['api_token']` | String | API Token | empty |
 
 ## Usage
 
