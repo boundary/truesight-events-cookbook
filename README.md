@@ -9,6 +9,7 @@ All
 ## Attributes
 
 | Key | Type | Description | Default |
+| --- | ---- | ----------- | ------- |
 | `['truesight_events']['email']` | String | Authentication Email Address | empty |
 | `['truesight_events']['api_token']` | String | API Token | empty |
 
