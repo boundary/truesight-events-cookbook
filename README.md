@@ -33,7 +33,7 @@ All
 
 ### truesight-events::default
 
-Include `truesight-events` in your node's `run_list`:
+Include `truesight-events` in your node's `run_list` preferably early as this is an exception and success reporter:
 
 ```json
 {
