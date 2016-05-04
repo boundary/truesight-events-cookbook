@@ -46,7 +46,7 @@ Include `truesight-events` in your node's `run_list`:
 
 You may use the provided attributes or a chef databag
 
-## Databag setup
+## Databag Setup
 
 Name: truesight
 Id: account
